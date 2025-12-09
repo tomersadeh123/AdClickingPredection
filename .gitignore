@@ -52,3 +52,5 @@ logs/
 
 # Docker
 *.tar
+
+INTERVIEW_GUIDE.md
